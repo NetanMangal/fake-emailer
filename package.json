@@ -1,0 +1,23 @@
+{
+  "name": "fake-emailer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NetanMangal/fake-emailer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NetanMangal/fake-emailer/issues"
+  },
+  "homepage": "https://github.com/NetanMangal/fake-emailer#readme",
+  "dependencies": {
+    "nodemailer": "^6.4.17",
+    "sib-api-v3-sdk": "^8.1.0"
+  }
+}
